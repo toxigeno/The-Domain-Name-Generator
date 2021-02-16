@@ -12,3 +12,5 @@ let random3 = Math.floor(Math.random()*end.length);
 generator = pronoun[random]+adj[random1]+noun[random2]+end[random3];
 
 console.log(generator);
+
+// cambios
